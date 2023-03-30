@@ -28,3 +28,12 @@
 - 개선할 수 있는 부분이 보이면 의견 제시
 - 잘한 부분에 대한 칭찬
 - 궁금한 부분에 대한 질문
+
+## 📌 Solved Problems
+### 🚩 week 1
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1477 | [휴게소 세우기](https://www.acmicpc.net/problem/3085) |  | gold4
+| BOJ | 14728 | [벼락치기](https://www.acmicpc.net/problem/3085) |  | gold4
+
+
