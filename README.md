@@ -34,6 +34,6 @@
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 1477 | [휴게소 세우기](https://www.acmicpc.net/problem/1477) |  | gold4
-| BOJ | 14728 | [벼락치기](https://www.acmicpc.net/problem/14728) |  | gold4
+| BOJ | 14728 | [벼락치기](https://www.acmicpc.net/problem/14728) |  | gold5
 
 
