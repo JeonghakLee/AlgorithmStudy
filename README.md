@@ -31,9 +31,9 @@
 
 ## 📌 Solved Problems
 ### 🚩 week 1
-| Type | 문제 | 제목 | 유형 | rank |
+| Type | 문제 | 제목 | 출제자 | rank |
 | -- |--| -- |--|--|
-| BOJ | 1477 | [휴게소 세우기](https://www.acmicpc.net/problem/1477) |  | gold4
+| BOJ | 2342 | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | 김광표 | gold3
 | BOJ | 14728 | [벼락치기](https://www.acmicpc.net/problem/14728) |  | gold5
 
 
