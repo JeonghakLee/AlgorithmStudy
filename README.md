@@ -41,4 +41,4 @@
 | -- |--| -- |--|--|
 | BOJ | 2342 | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | 김광표 | gold3
 | BOJ | 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052)| 이준희 | gold4
-| BOJ | 7570 | [줄 세우기](https://www.acmicpc.net/problem/7570)| 이정학 | gold4
+| BOJ | 7570 | [줄 세우기](https://www.acmicpc.net/problem/7570)| 이정학 | gold3
