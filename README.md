@@ -48,6 +48,6 @@
 | Type | 문제 | 제목 | 출제자 | rank |
 | -- |--| -- |--|--|
 | BOJ | 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | 김광표 | gold2
-| BOJ |  | [](https://www.acmicpc.net/problem/)| 이준희 | 
+| BOJ | 17298 | [오큰수](https://www.acmicpc.net/problem/17298)| 이준희 | gold4
 | BOJ |  | [](https://www.acmicpc.net/problem/)| 이정학 | 
 | BOJ |  | [](https://www.acmicpc.net/problem/)| 정현우 | 
