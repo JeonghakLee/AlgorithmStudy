@@ -43,3 +43,11 @@
 | BOJ | 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052)| 이준희 | gold4
 | BOJ | 7570 | [줄 세우기](https://www.acmicpc.net/problem/7570)| 이정학 | gold3
 | BOJ | 17255 | [N으로 만들기](https://www.acmicpc.net/problem/17255)| 정현우 | gold4
+
+### 🚩 week 3
+| Type | 문제 | 제목 | 출제자 | rank |
+| -- |--| -- |--|--|
+| BOJ | 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | 김광표 | gold2
+| BOJ |  | [](https://www.acmicpc.net/problem/)| 이준희 | 
+| BOJ |  | [](https://www.acmicpc.net/problem/)| 이정학 | 
+| BOJ |  | [](https://www.acmicpc.net/problem/)| 정현우 | 
