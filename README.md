@@ -50,4 +50,4 @@
 | BOJ | 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | 김광표 | gold2
 | BOJ | 17298 | [오큰수](https://www.acmicpc.net/problem/17298)| 이준희 | gold4
 | BOJ |  | [](https://www.acmicpc.net/problem/)| 이정학 | 
-| BOJ |  | [](https://www.acmicpc.net/problem/)| 정현우 | 
+| BOJ | 22942 | [데이터 체커](https://www.acmicpc.net/problem/22942)| 정현우 | gold4
