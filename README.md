@@ -51,3 +51,11 @@
 | BOJ | 17298 | [오큰수](https://www.acmicpc.net/problem/17298)| 이준희 | gold4
 | BOJ | 14621 | [나만 안되는 연애](https://www.acmicpc.net/problem/14621)| 이정학 | gold3
 | BOJ | 22942 | [데이터 체커](https://www.acmicpc.net/problem/22942)| 정현우 | gold4
+
+### 🚩 week 4
+| Type | 문제 | 제목 | 출제자 | rank |
+| -- |--| -- |--|--|
+| BOJ | 4195 | [게임 개](https://www.acmicpc.net/problem/1516) | 김광표 | gold3
+| BOJ | 17298 | []()| 이준희 | 
+| BOJ | 14621 | []()| 이정학 | 
+| BOJ | 22942 | []()| 정현우 | 
