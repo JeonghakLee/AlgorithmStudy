@@ -55,7 +55,7 @@
 ### 🚩 week 4
 | Type | 문제 | 제목 | 출제자 | rank |
 | -- |--| -- |--|--|
-| BOJ | 4195 | [게임 개](https://www.acmicpc.net/problem/1516) | 김광표 | gold3
+| BOJ | 4195 | [게임 개발](https://www.acmicpc.net/problem/1516) | 김광표 | gold3
 | BOJ | 17298 | []()| 이준희 | 
 | BOJ | 14621 | []()| 이정학 | 
 | BOJ | 22942 | []()| 정현우 | 
