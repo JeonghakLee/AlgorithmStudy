@@ -56,6 +56,6 @@
 | Type | 문제 | 제목 | 출제자 | rank |
 | -- |--| -- |--|--|
 | BOJ | 1516 | [게임 개발](https://www.acmicpc.net/problem/1516) | 김광표 | gold3
-| BOJ |  | []()| 이준희 | 
+| BOJ | 3967 | [매직 스타](https://www.acmicpc.net/problem/3967)| 이준희 | gold5
 | BOJ |  | []()| 이정학 | 
 | BOJ |  | []()| 정현우 | 
