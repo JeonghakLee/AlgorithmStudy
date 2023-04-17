@@ -11,7 +11,6 @@ def solution() :
 
     parent = [-1] * (N + 1)
 
-
     def find(x):
         if parent[x] < 0:
             return x

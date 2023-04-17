@@ -12,7 +12,6 @@ def solution() :
             parent[x] = y
             return y
 
-
     def union(x, y):
         x = find(x)
         y = find(y)
