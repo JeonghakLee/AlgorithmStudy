@@ -59,3 +59,11 @@
 | BOJ | 3967 | [매직 스타](https://www.acmicpc.net/problem/3967)| 이준희 | gold5
 | BOJ | 2616 | [소형기관차](https://www.acmicpc.net/problem/2616)| 이정학 | gold3
 | BOJ | 2141 | [우체국](https://www.acmicpc.net/problem/2141)| 정현우 | gold4
+
+### 🚩 week 5
+| Type | 문제 | 제목 | 출제자 | rank |
+| -- |--| -- |--|--|
+| PGS | 가장 큰 수 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 김광표 | v.2
+| BOJ |  | [](https://www.acmicpc.net/problem/)| 이준희 | 
+| BOJ |  | [](https://www.acmicpc.net/problem/)| 이정학 | 
+| BOJ |  | [](https://www.acmicpc.net/problem/)| 정현우 | 
