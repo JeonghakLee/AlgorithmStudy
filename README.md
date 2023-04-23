@@ -64,6 +64,6 @@
 | Type | 문제 | 제목 | 출제자 | rank |
 | -- |--| -- |--|--|
 | PGS | 가장 큰 수 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 김광표 | Lv.2
-| BOJ | 16936 | [나3곱2](https://www.acmicpc.net/problem/16936)| 이준희 | gold5
+| BOJ | 1174 | [줄어드는 수](https://www.acmicpc.net/problem/1174)| 이준희 | gold5
 | BOJ |  | [](https://www.acmicpc.net/problem/)| 이정학 | 
 | BOJ |  | [](https://www.acmicpc.net/problem/)| 정현우 | 
