@@ -65,5 +65,5 @@
 | -- |--| -- |--|--|
 | PGS | 가장 큰 수 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 김광표 | Lv.2
 | BOJ | 16936 | [나3곱2](https://www.acmicpc.net/problem/16936)| 이준희 | gold5
-| BOJ |  | [](https://www.acmicpc.net/problem/)| 이정학 | 
+| BOJ | 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576)| 이정학 | gold2
 | BOJ | 3079 | [입국심사](https://www.acmicpc.net/problem/3079)| 정현우 | gold5
