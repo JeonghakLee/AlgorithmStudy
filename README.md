@@ -67,3 +67,11 @@
 | BOJ | 16936 | [나3곱2](https://www.acmicpc.net/problem/16936)| 이준희 | gold5
 | BOJ | 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576)| 이정학 | gold2
 | BOJ | 3079 | [입국심사](https://www.acmicpc.net/problem/3079)| 정현우 | gold5
+
+### 🚩 week 6
+| Type | 문제 | 제목 | 출제자 | rank |
+| -- |--| -- |--|--|
+| BOJ |  | []()|  | 
+| BOJ | 1593 | [문자 해독](https://www.acmicpc.net/problem/1593) | 이준희 | gold5
+| BOJ |  | []()|  | 
+| BOJ |  | []()|  | 
