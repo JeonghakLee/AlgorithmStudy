@@ -74,4 +74,4 @@
 | BOJ | 3114 | [마라톤 2](https://www.acmicpc.net/problem/10653)| 김광표 | gold3
 | BOJ | 1593 | [문자 해독](https://www.acmicpc.net/problem/1593) | 이준희 | gold5
 | BOJ | 1162 | [도로 포장](https://www.acmicpc.net/problem/1162)| 이정학 | gold1 
-| BOJ | 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)| 정현우 | gold2
+| BOJ | 1655 | [가운데를 말해요](www.acmicpc.net/problem/1655)| 정현우 | gold2
