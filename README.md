@@ -79,7 +79,7 @@
 ### 🚩 week 7
 | Type | 문제 | 제목 | 출제자 | rank |
 | -- |--| -- |--|--|
-| BOJ | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520)| 김광표 | gold3
+| BOJ | 1520 | [내리막 길](www.acmicpc.net/problem/1520)| 김광표 | gold3
 |  |  | []() | 이준희 | 
 |  |  | []()| 이정학 | 
 |  |  | []()| 정현우 | 
