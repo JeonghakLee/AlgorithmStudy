@@ -75,3 +75,11 @@
 | BOJ | 1593 | [문자 해독](https://www.acmicpc.net/problem/1593) | 이준희 | gold5
 | BOJ | 1162 | [도로 포장](https://www.acmicpc.net/problem/1162)| 이정학 | gold1 
 | BOJ | 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)| 정현우 | gold2
+
+### 🚩 week 7
+| Type | 문제 | 제목 | 출제자 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520)| 김광표 | gold3
+|  |  | []() | 이준희 | 
+|  |  | []()| 이정학 | 
+|  |  | []()| 정현우 | 
