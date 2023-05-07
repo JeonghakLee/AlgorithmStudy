@@ -80,6 +80,6 @@
 | Type | 문제 | 제목 | 출제자 | rank |
 | -- |--| -- |--|--|
 | BOJ | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520)| 김광표 | gold3
-|  |  | []() | 이준희 | 
+| BOJ | 1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | 이준희 | gold4
 |  |  | []()| 이정학 | 
 |  |  | []()| 정현우 | 
