@@ -82,4 +82,4 @@
 | BOJ | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520)| 김광표 | gold3
 | BOJ | 1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | 이준희 | gold4
 | BOJ | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)| 이정학 | gold3 
-|  |  | []()| 정현우 | 
+| BOJ | 12764 | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764)| 정현우 | 
