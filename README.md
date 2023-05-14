@@ -83,3 +83,11 @@
 | BOJ | 1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | 이준희 | gold4
 | BOJ | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)| 이정학 | gold3 
 | BOJ | 12764 | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764)| 정현우 | gold3
+
+### 🚩 week 8
+| Type | 문제 | 제목 | 출제자 | rank |
+| -- |--| -- |--|--|
+| BOJ | 20440 | [니가 싫어]([https://www.acmicpc.net/problem/1520](https://www.acmicpc.net/problem/20440))| 김광표 | gold3
+| BOJ |  | []() |  | 
+| BOJ |  | []()|  |  
+| BOJ |  | []()|  | 
