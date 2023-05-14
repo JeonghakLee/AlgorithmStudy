@@ -87,7 +87,7 @@
 ### 🚩 week 8
 | Type | 문제 | 제목 | 출제자 | rank |
 | -- |--| -- |--|--|
-| BOJ | 20440 | [니가 싫어](https://www.acmicpc.net/problem/1520](https://www.acmicpc.net/problem/20440)| 김광표 | gold3
+| BOJ | 20440 | [니가 싫어](https://www.acmicpc.net/problem/20440)| 김광표 | gold3
 | BOJ |  | []() |  | 
 | BOJ |  | []()|  |  
 | BOJ |  | []()|  | 
