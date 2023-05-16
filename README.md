@@ -89,5 +89,5 @@
 | -- |--| -- |--|--|
 | BOJ | 20440 | [니가 싫어](https://www.acmicpc.net/problem/20440)| 김광표 | gold3
 | BOJ | 17616 | [등수 찾기](https://www.acmicpc.net/problem/17616) | 이준희 | gold3
-| BOJ |  | []()|  |  
+| BOJ | 1826 | [연료 채우기](https://www.acmicpc.net/problem/1826)| 이정학 | gold2  
 | BOJ | 2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)| 정현우 | gold1
